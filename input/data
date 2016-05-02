@@ -80,7 +80,7 @@
 # nIter0=21,
  startTime=0.,
 # pickupSuff='ckptA',
- endTime=2160000.,
+ endTime=1080000.,
 #- for testing, only run for 12 iterations:
 # nTimeSteps=120,
  deltaT=20.,
